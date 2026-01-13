@@ -57,16 +57,3 @@
 <br><br>
 
 <div align="center">
-
-  ### 📊 GitHub İstatistiklerim
-
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=github-kullanici-adin&show_icons=true&theme=dark&locale=tr" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-kullanici-adin&layout=compact&theme=dark" height="180" alt="languages" />
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=github-kullanici-adin&style=flat-square&label=Profil+Ziyaretçileri&color=0e75b6" alt="" />
-
-</div>
