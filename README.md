@@ -1,8 +1,7 @@
 # 👋 Merhaba, ben Selim
 
--   Atatürk Üniversitesi
--   Backend Developer
-
+- 🎓 Atatürk Üniversitesi  
+- 💻 Backend Developer
 
 ## 🚀 Kullandığım Teknolojiler
 
