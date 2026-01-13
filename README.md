@@ -2,9 +2,13 @@
 
   # 👋 Merhaba, ben Selim!
 
+  <br>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Backend+Developer;Atat%C3%BCrk+%C3%9Cniversitesi;Node.JS,+Nest.JS,+Express.JS" alt="Typing SVG" />
   </a>
+
+  <br>
 
   <a href="https://linkedin.com/in/selimkavaklicesme">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,11 +16,13 @@
 
 </div>
 
-<br>
-
-### 🚀 Kullandığım Teknolojiler
+<br><br>
 
 <div align="center">
+
+  ### 🚀 Kullandığım Teknolojiler
+
+  <br>
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -48,18 +54,19 @@
 
 </div>
 
-<br>
-
-### 📊 GitHub İstatistiklerim
+<br><br>
 
 <div align="center">
+
+  ### 📊 GitHub İstatistiklerim
+
+  <br>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=github-kullanici-adin&show_icons=true&theme=dark&locale=tr" height="180" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-kullanici-adin&layout=compact&theme=dark" height="180" alt="languages" />
 
-</div>
+  <br><br>
 
-<br>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=github-kullanici-adin&style=flat-square&label=Profil+Ziyaretçileri&color=0e75b6" alt="" />
+
 </div>
