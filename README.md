@@ -8,6 +8,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Backend+Developer;Atat%C3%BCrk+%C3%9Cniversitesi;Node.JS,+Nest.JS,+Express.JS" alt="Typing SVG" />
   </a>
 
+  <br>
+
   <a href="https://linkedin.com/in/selimkavaklicesme">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
