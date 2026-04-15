@@ -56,4 +56,10 @@
 
 <br><br>
 
+<p align="center">
+  <a href="https://github.com/Skavces">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skavces&bg_color=0d1117&color=c9d1d9&line=2c83f8&point=8b5cf6&hide_border=true&radius=6" />
+  </a>
+</p>
+
 <div align="center">
