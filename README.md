@@ -1,5 +1,5 @@
 <div align="center">
-  # 👋 Hi, I'm Selim!
+  <h1>👋 Hi, I'm Selim!</h1>
   <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Backend+Developer;Atat%C3%BCrk+University;Node.JS,+Nest.JS,+Express.JS" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 </div>
 <br><br>
 <div align="center">
-  ### 🚀 Technologies I Use
+  <h3>🚀 Technologies I Use</h3>
   <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
