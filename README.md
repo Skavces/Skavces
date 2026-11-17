@@ -2,7 +2,7 @@
   <h3>🚀 Technologies I Use</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=prisma&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=prisma,typeorm&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=git,docker,ubuntu,nginx,linux&theme=dark" />
 </div>
